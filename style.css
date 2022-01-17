@@ -1,0 +1,26 @@
+.main-heading {
+    color: rgb(0, 238, 255);
+    background-color: rgb(255, 255, 119);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 64px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: rgb(198, 255, 249);
+}
+
+ul {
+    color: tomato;
+}
+
+.bigger-text {
+    font-size: 32px;
+}
